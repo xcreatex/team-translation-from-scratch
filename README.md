@@ -1,6 +1,6 @@
-# French Prediction from Scratch 🇫🇷
+# indian team Prediction from Scratch 
 
-This project implements a simple **French word prediction / classification model** entirely from scratch using **Python** and **NumPy**.  
+This project implements a simple **indian team prediction / classification model** entirely from scratch using **Python**, **scipy** and **NumPy**.  
 No external neural network frameworks (like TensorFlow or PyTorch) are used — everything is coded manually step by step.  
 
 ---
@@ -15,7 +15,7 @@ No external neural network frameworks (like TensorFlow or PyTorch) are used — 
 
 ## 📂 Project Structure
 ```
-french_prediction/
+indian team_prediction/
 │── model.ipynb       # Main notebook (training & evaluation)
 │── helper.py         # Helper functions (activations, forward/backward propagation, etc.)
 │── datasets/
@@ -30,8 +30,8 @@ french_prediction/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<username>/french-prediction.git
-cd french-prediction
+git clone https://github.com/xcreatex/team-translation-from-scratch
+cd indian team-prediction
 ```
 
 ### 2. Install dependencies
@@ -93,8 +93,3 @@ During training, the model learns decision boundaries for the dataset. Below are
 
 ## 🤝 Contributing
 Pull requests are welcome. If you’d like to extend this project (e.g., train on a larger dataset or add new features), feel free to contribute.  
-
----
-
-## 📜 License
-This project is licensed under the MIT License. 
